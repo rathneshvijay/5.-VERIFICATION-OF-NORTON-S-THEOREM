@@ -23,21 +23,16 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
-
-**To measure IL**
-
-
-**To measure RTh or RN**
-
-
-
-**To measure IN or Isc**
-
- 
-**Thevenin’s equivalent circuit**
+![WhatsApp Image 2025-12-20 at 20 14 53](https://github.com/user-attachments/assets/fa22d013-62d8-4e1d-8d45-90508caa4186)
+![WhatsApp Image 2025-12-20 at 20 14 54](https://github.com/user-attachments/assets/abf3253d-012f-4bfe-9a49-ebf736b030fc)
+**TABULAR COLUMN:**
+![WhatsApp Image 2025-12-20 at 20 14 54 (1)](https://github.com/user-attachments/assets/679600aa-907c-47ef-be18-960325faaa8b)
+![WhatsApp Image 2025-12-20 at 20 14 55](https://github.com/user-attachments/assets/2651079f-45d9-43db-8427-0bfc9959bfd2)
+**CALCULATION:**
+![WhatsApp Image 2025-12-20 at 20 19 35](https://github.com/user-attachments/assets/3e67b5c3-c8ca-45f7-b3c6-7363eadba09c)
+![WhatsApp Image 2025-12-20 at 20 19 36](https://github.com/user-attachments/assets/610ff0e2-4f0c-4db3-aeaf-6d3e419e6aed)
 
 
-**Norton’s equivalent circuit**
 
 
 **PROCEDURE:**
@@ -70,34 +65,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-**TABULAR COLUMN: 1**
-To measure I L
-
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
-
-
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
-	
-**MODEL CALCULATION:**
-
-Practical value of IL (from tabulation 1) =2.3mA
-
-**Verification of Norton’s theorem**
-
-IL = IN * RN / ( RN+ RL ) = 2.43mA
-
-Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
+![WhatsApp Image 2025-12-20 at 20 19 37](https://github.com/user-attachments/assets/b2acb5a8-0073-489c-9e34-f2b07ef5f47a)
 
 
 **RESULT:**
