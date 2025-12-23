@@ -24,13 +24,14 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 ![WhatsApp Image 2025-12-20 at 20 14 53](https://github.com/user-attachments/assets/fa22d013-62d8-4e1d-8d45-90508caa4186)
-![WhatsApp Image 2025-12-20 at 20 14 54](https://github.com/user-attachments/assets/abf3253d-012f-4bfe-9a49-ebf736b030fc)
+![WhatsApp Image 2025-12-20 at 20 14 54](https://github.com/user-attachments/assets/b7f2973a-5d46-4b7f-89bb-52b3f81f340a)
 **TABULAR COLUMN:**
 ![WhatsApp Image 2025-12-20 at 20 14 54 (1)](https://github.com/user-attachments/assets/679600aa-907c-47ef-be18-960325faaa8b)
-![WhatsApp Image 2025-12-20 at 20 14 55](https://github.com/user-attachments/assets/2651079f-45d9-43db-8427-0bfc9959bfd2)
+![WhatsApp Image 2025-12-20 at 20 14 55](https://github.com/user-attachments/assets/149809ec-2e7b-49f1-9652-ec3b41a9f3cc)
+
 **CALCULATION:**
 ![WhatsApp Image 2025-12-20 at 20 19 35](https://github.com/user-attachments/assets/3e67b5c3-c8ca-45f7-b3c6-7363eadba09c)
-![WhatsApp Image 2025-12-20 at 20 19 36](https://github.com/user-attachments/assets/610ff0e2-4f0c-4db3-aeaf-6d3e419e6aed)
+![WhatsApp Image 2025-12-20 at 20 19 36](https://github.com/user-attachments/assets/a592f9e5-dab2-41e5-8be2-7d35d6d94128)
 
 
 
@@ -65,7 +66,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-![WhatsApp Image 2025-12-20 at 20 19 37](https://github.com/user-attachments/assets/b2acb5a8-0073-489c-9e34-f2b07ef5f47a)
+![WhatsApp Image 2025-12-20 at 20 19 37](https://github.com/user-attachments/assets/05aeb879-b86b-4375-89de-262b179d25d6)
 
 
 **RESULT:**
